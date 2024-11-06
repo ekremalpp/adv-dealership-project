@@ -51,15 +51,16 @@ Follow these steps to get your application running within IntelliJ IDEA:
 
 Outline potential future enhancements or functionalities you might consider adding:
 
-- Additional feature to be developed.Future work may include adding verification of user information to manage vehicle listings and improving search functionality for better vehicle filtering.
-   
+- Future work may include additional features such as report generation, tracking customer interactions, and integration with other dealership systems to further improve the app's functionality and usability
 
 
 ## Resources
 
 List resources such as tutorials, articles, or documentation that helped you during the project.
 
--
+- https://github.com/RayMaroun
+- https://www.w3schools.com/java
+- https://stackoverflow.com/questions/136419/get-integer-value-of-the-current-year-in-java
 
 ## Team Members
 
