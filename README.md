@@ -16,8 +16,9 @@ it also updates the vehicle inventory by reading from a dealership.csv file and 
 - As a user, I want to filter vehicles by price, make, or model so that I can easily find options that fit my budget and preferences.
 
 - As a user, I want to add new vehicles to the inventory so that I can keep the dealership up to date with the latest offerings.
-
-
+- As a user, I want to perform vehicle sales or lease transactions so that I can provide service to customers.
+-
+As a user, I want to query vehicles by price, make, model, year, color, and mileage criteria so that I can find vehicles that meet my needs
 ## Setup
 
 Instructions on how to set up and run the project using IntelliJ IDEA.
