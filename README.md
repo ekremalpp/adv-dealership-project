@@ -44,7 +44,9 @@ Follow these steps to get your application running within IntelliJ IDEA:
 - Intellij IDEA.
 
 ## Demo
-
+![main menu - Copy.JPG](imgs%2Fmain%20menu%20-%20Copy.JPG)
+![sale - Copy.JPG](imgs%2Fsale%20-%20Copy.JPG)
+![contract saved successfuly - Copy.JPG](imgs%2Fcontract%20saved%20successfuly%20-%20Copy.JPG)
 ## Future Work
 
 Outline potential future enhancements or functionalities you might consider adding:
